@@ -101,6 +101,13 @@ var alunos = [
         nome:'Rafael Tanaka',
         texto:'Parabéns Camila! Muitas felicidades, muita luz! Você é um exemplo para todos nós sobre como ser uma ótima profissional! Continue nos inspirando!',
     },
+
+    rplandrade = {
+        nome:'Raphael Andrade',
+        texto:'ae professora Camila feliz aniversário! <br>' +
+        'Quero parabenizar por ser essa excelente profissional e só tenho a agradecer por ter vc como professora! <br>' +
+        'Obrigado por tudo e muito sucesso!',
+    },
     
     shirley = {
         nome:'Shirley',
