@@ -95,11 +95,8 @@ var alunos = [
     shirley = {
         nome:'Shirley',
         texto:'Parabééééns, Psora!! Que você tenha um dia incrível, que continue arrasando nos códigos e logo mais brilhe lá nos States' +
-<<<<<<< HEAD
         'Você e o Edu são sensacionais! Obrigada por todo o apoio e paciência nesse curso, fez toda a diferença' 
-=======
-        'Você e o Edu são sensacionais! Obrigada por todo o apoio e paciência nesse curso, fez toda a diferença',
->>>>>>> ceb02387b380d9648792baa44eeb8ecda1dd7f24
+
     },
 
     // MODELO ABAIXO>>>
