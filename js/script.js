@@ -102,6 +102,11 @@ var alunos = [
 >>>>>>> ceb02387b380d9648792baa44eeb8ecda1dd7f24
     },
 
+    aluno = {
+        nome:'Vagner',
+        texto:'Parabéns, Camila! Paz, saúde e sucesso.',
+    },
+];
     // MODELO ABAIXO>>>
     aluno = {
         nome:'Lorem',
