@@ -86,6 +86,11 @@ var alunos = [
         'realmente, fora as atividades externas que realiza e isso parece n interferir. Parabéns!!! '+
         'Realmente hoje é um dia para ser comemorado!', 
     },
+
+    michel = {
+        nome: 'Michel',
+        texto: 'Parabéns psora!! Tenha um ótimo dia e saiba que sempre lembraremos de vc como a melhor psora de React do universo!! :D <br />Valeu por tudo!! :)',
+    },
     
     rafael = {
         nome:'Rafael Tanaka',
