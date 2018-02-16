@@ -103,7 +103,7 @@ var alunos = [
         nome:'Vagner',
         texto:'Parabéns, Camila! Paz, saúde e sucesso.',
     },
-];
+
     // MODELO ABAIXO>>>
     aluno = {
         nome:'Lorem',
