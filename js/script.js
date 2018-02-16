@@ -76,6 +76,11 @@ var alunos = [
         'Parabéns, muitas felicidades, muito amor, muita paz e muita saúde para sua vida, pois você merece tudo de bão! <br> Obrigada por todos os dias!<br> Beijos'
     },
 
+    juliana = {
+        nome:'Juliana',
+        texto:'YAYYYY! Parabéns Camila! Muitas saúde, paz, alegrias e realizações. Você é sensacional e temos muita sorte de ter alguém como você nos ensinando diariamente.',
+    },
+
     mara = {
         nome: 'Mara',
         texto: 'Professora daora aluno n chora! Eu queria agradecer muito ao apoio que vc tem dado em '+
@@ -102,6 +107,11 @@ var alunos = [
         texto:'Parabééééns, Psora!! Que você tenha um dia incrível, que continue arrasando nos códigos e logo mais brilhe lá nos States' +
         'Você e o Edu são sensacionais! Obrigada por todo o apoio e paciência nesse curso, fez toda a diferença' 
 
+    },
+
+    aluno = {
+        nome:'Vagner',
+        texto:'Parabéns, Camila! Paz, saúde e sucesso.',
     },
 
     // MODELO ABAIXO>>>
