@@ -9,6 +9,18 @@ var alunos = [
         'pessoa/professora! Não desista de ser assim :) E parabéns (mais uma vez) pelo seu dia!',
     },
     
+    bruno = {
+        nome: 'Bruno',
+        texto: 'AEEEEEEEEEEE professoora!! Feliz aniversário!! Ficando velhinha! Espero que este ano seja melhor do que o anterior! Sucesso na sua' +
+        'carreira! Espero que continue sempre assim (codando muito!). Bora comemorar! Felicidades!' +
+        '<br>Ps: Ganhou mais um ano de vida, já pode subir pra master? kkk :D' 
+    },
+
+    caio = {
+        nome: 'Caio Caio',
+        texto: 'Ae professora, parabéns!!!<br> Obrigado pelo conhecimento passado até aqui e também pelo que está por vir. É nóis!'
+    },
+
     dani = {
         nome: 'Dani',
         texto: 'CAMILAAAAAA PARABÉINSSS MEUUUU &#9829;&#9829;&#9829; hahahahha' +
@@ -22,11 +34,31 @@ var alunos = [
             'ter entrado no codeXP já terá valido a pena por ter te conhecido!'
     },
 
+    deise = {
+        nome: 'Deise',
+        texto: 'Proooofee!! Parabens pra vc, nesta data querida, muitas felicidades, muitos anos de vida!!!!! :DDDDDD Te desejo muita saude, amor, felicidade, sucesso!!!!'+
+        'Admiro muito as pessoas que tem poucas noites de sono e se mostram muito eficientes no seu trabalho! Vc eh uma profissional muito exemplar!!! Espero que vc tenha '+
+        'um otimo final de noite e que essas mensagens tragam boas energias para vc começar um novo ano muito positivo e feliz! Beijos!'
+    },
+
     flavia = {
         nome:'Flavia',
         texto:'Camila, feliz aniversário! Desejo a você saúde, alegrias e que você consiga realizar todos os seus sonhos. Parabéns! :)',
     },
     
+    guigalli = {
+        nome: 'Gui Galli',
+        texto: 'Professora, feliz aniversário!!! Temos muita sorte em ter você como nossa instrutora, pois além de mostrar profissionalismo você é muito atenciosa. <br> Obrigado por toda dedicação em nos ensinar e explicar mil vezes até a gente entender kk. Espero que você possa se tornar especialista em javascript.. Tudo de bom!'
+    },
+
+    jaque = {
+        nome: 'Jaque',
+        texto: '<b>Oooi prooof! </b><br>Obrigada pelas suas aulas diárias, com paciência, novos conhecimentos e principalmente dedicação. <br>' +
+        'Tenho certeza que vc é a melhor professora do SENAI!!!! ARRASAAAA!!! Nos ensinou a codar, gerenciar, versionar e trabalhar em equipe, completissima! S2 <br>' +
+        'Continue sendo essa professora maravilhosa e essa pessoa incrível. <br> ' + 
+        'Parabéns, muitas felicidades, muito amor, muita paz e muita saúde para sua vida, pois você merece tudo de bão! <br> Obrigada por todos os dias!<br> Beijos'
+    },
+
     mara = {
         nome: 'Mara',
         texto: 'Professora daora aluno n chora! Eu queria agradecer muito ao apoio que vc tem dado em '+
