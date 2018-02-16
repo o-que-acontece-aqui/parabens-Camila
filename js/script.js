@@ -15,6 +15,11 @@ var alunos = [
             'ter entrado no codeXP já terá valido a pena por ter te conhecido!'
     },
 
+    flavia = {
+        nome:'Flavia',
+        texto:'Camila, feliz aniversário! Desejo a você saúde, alegrias e que você consiga realizar todos os seus sonhos. Parabéns! :)',
+    },
+    
     mara = {
         nome: 'Mara',
         texto: 'Professora daora aluno n chora! Eu queria agradecer muito ao apoio que vc tem dado em '+
