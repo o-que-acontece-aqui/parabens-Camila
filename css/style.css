@@ -38,6 +38,7 @@ html, body{
     text-align: center;
     font-weight: bold;
     margin: 0;
+    padding: 10px;
 }
 .agradecimento__texto{
     padding: 10px;

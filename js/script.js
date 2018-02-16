@@ -19,9 +19,9 @@ var alunos = [
 ];
 
 var secao = document.getElementById('agradecimentos');
-
+var template = "";
 for(var posicao = 0; posicao<alunos.length; posicao++){
-    var template = "";
+    
 
     template +='<div class="agradecimento">'+
                     '<h1 class="agradecimento__titulo">document.getElementById('+alunos[posicao].nome+')</h1>'+
