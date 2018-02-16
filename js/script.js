@@ -70,10 +70,10 @@ var alunos = [
         'Realmente hoje é um dia para ser comemorado!', 
     },
 
-    Shirley = {
+    shirley = {
         nome:'Shirley',
         texto:'Parabééééns, Psora!! Que você tenha um dia incrível, que continue arrasando nos códigos e logo mais brilhe lá nos States' +
-        'Você e o Edu são sensacionais! Obrigada por todo o apoio e paciência nesse curso, fez toda a diferença' +
+        'Você e o Edu são sensacionais! Obrigada por todo o apoio e paciência nesse curso, fez toda a diferença',
     },
 
     // MODELO ABAIXO>>>
