@@ -1,6 +1,7 @@
 var alunos = [
     // INSERIR EM ORDEM ALFABETICA
     // USE O MODELO Q ESTA NO FIM DA ARRAY
+    
     andrea = {
         nome: 'Andrea',
         texto: 'Parabéns pelo seu dia! Espero que essa pequena homenagem reflita uma parte de uma retribuição mais do que ' +
@@ -8,17 +9,33 @@ var alunos = [
         'em nos fazer aprender de verdade só esconde uma personalidade incrível e uma pessoa muito boa! Parabéns por ser essa ' +
         'pessoa/professora! Não desista de ser assim :) E parabéns (mais uma vez) pelo seu dia!',
     },
+
+    bruna = {
+        nome: 'Bruna',
+        texto: 'Oi Prof  :D <br><br>'+
+            '♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ' +
+            'Primeiramente, gostaria de agradecer pela excelente professora que é, '+
+            'e por toda dedicação e profissionalismo que tem com nossa turma. ' +
+            'Seu comprometimento nos passa uma certeza de que mesmo cansados vale a pena ir para a aula, ' +
+            'pois temos muito conhecimento a adquirir. Eu adoro seu jeito objetivo de explicar as coisas,' +
+            'dá pra perceber que domina muito o assunto. É uma honra termos você como professora.' +
+            'Parabéns pelo seu dia, que você continue sendo essa pessoa maravilhosa, ' +
+            'que Deus te abençoe e que consiga alcançar todos os seus objetivos. <br><br>'+
+            '♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥ ~ ♥'
+
+
+    },
     
     dani = {
         nome: 'Dani',
-        texto: 'CAMILAAAAAA PARABÉINSSS MEUUUU &#9829;&#9829;&#9829; hahahahha' +
+        texto: 'CAMILAAAAAA PARABÉINSSS MEUUUU ♥ ♥ ♥ hahahahha <br>' +
             'Espero que seu dia tenha sido tão incrível quanto a pessoa que vc é :) aaaa sou péssima pra escrever essas mensagens, ' +
             'mas de qualquer maneira preciso agradecer demaissss você ser nossa professora ! ' +
             'Não falo da boca pra fora quando digo que você é uma dentre os melhores professores que tive da vidaaaa, não somente em termos de didática e saber lecionar, ' +
             'mas são pouquíssimos com a paixão que você demonstra e preocupação em nos fazer entender de verdade. ' +
             'E mesmo fora esse aspecto, já te admiro demais como pessoa! Um mulherão da porra hahahahah não creio ainda que você trabalha, faz mestrado ' +
-            'e ainda prepara nossas aulas aaaaa quero ser igual você quando crescer KKKKKKKKK' +
-            'Sério, obrigada por ser essa referência feminina tão foda para nós nesse curso &#9829; e mesmo se der tudo errado no projeto final (hehe), '+
+            'e ainda prepara nossas aulas aaaaa quero ser igual você quando crescer KKKKKKKKK<br>' +
+            'Sério, obrigada por ser essa referência feminina tão foda para nós nesse curso ♥ e mesmo se der tudo errado no projeto final (hehe), '+
             'ter entrado no codeXP já terá valido a pena por ter te conhecido!'
     },
 
@@ -48,7 +65,7 @@ var secao = document.getElementById('agradecimentos');
 var template = "";
 for(var posicao = 0; posicao<alunos.length; posicao++){
     template +='<div class="agradecimento">'+
-                    '<h1 class="agradecimento__titulo">document.getElementById('+alunos[posicao].nome+')</h1>'+
+                    '<h1 class="agradecimento__titulo">'+alunos[posicao].nome+'</h1>'+
                     '<p class="agradecimento__texto">'+alunos[posicao].texto+'</p>'+
                 '</div>';
     secao.innerHTML = template;
