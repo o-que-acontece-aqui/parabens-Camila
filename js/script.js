@@ -1,6 +1,11 @@
 var alunos = [
     // INSERIR EM ORDEM ALFABETICA
     // USE O MODELO Q ESTA NO FIM DA ARRAY
+    flavia = {
+        nome:'Flavia',
+        texto:'Camila, feliz aniversário! Desejo a você saúde, alegrias e que você consiga realizar todos os seus sonhos. Parabéns! :)',
+    },
+    
     mara = {
         nome: 'Mara',
         texto: 'Professora daora aluno n chora! Eu queria agradecer muito ao apoio que vc tem dado em '+
