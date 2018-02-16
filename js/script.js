@@ -1,6 +1,20 @@
 var alunos = [
     // INSERIR EM ORDEM ALFABETICA
     // USE O MODELO Q ESTA NO FIM DA ARRAY
+
+    dani = {
+        nome: 'Dani',
+        texto: 'CAMILAAAAAA PARABÉINSSS MEUUUU &#9829;&#9829;&#9829; hahahahha' +
+            'Espero que seu dia tenha sido tão incrível quanto a pessoa que vc é :) aaaa sou péssima pra escrever essas mensagens, ' +
+            'mas de qualquer maneira preciso agradecer demaissss você ser nossa professora ! ' +
+            'Não falo da boca pra fora quando digo que você é uma dentre os melhores professores que tive da vidaaaa, não somente em termos de didática e saber lecionar, ' +
+            'mas são pouquíssimos com a paixão que você demonstra e preocupação em nos fazer entender de verdade. ' +
+            'E mesmo fora esse aspecto, já te admiro demais como pessoa! Um mulherão da porra hahahahah não creio ainda que você trabalha, faz mestrado ' +
+            'e ainda prepara nossas aulas aaaaa quero ser igual você quando crescer KKKKKKKKK' +
+            'Sério, obrigada por ser essa referência feminina tão foda para nós nesse curso &#9829; e mesmo se der tudo errado no projeto final (hehe), '+
+            'ter entrado no codeXP já terá valido a pena por ter te conhecido!'
+    },
+
     mara = {
         nome: 'Mara',
         texto: 'Professora daora aluno n chora! Eu queria agradecer muito ao apoio que vc tem dado em '+
