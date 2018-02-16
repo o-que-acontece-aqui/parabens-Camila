@@ -54,6 +54,13 @@ var alunos = [
         'realmente, fora as atividades externas que realiza e isso parece n interferir. Parabéns!!! '+
         'Realmente hoje é um dia para ser comemorado!', 
     },
+
+    Shirley = {
+        nome:'Shirley',
+        texto:'Parabééééns, Psora!! Que você tenha um dia incrível, que continue arrasando nos códigos e logo mais brilhe lá nos States' +
+        'Você e o Edu são sensacionais! Obrigada por todo o apoio e paciência nesse curso, fez toda a diferença' +
+    },
+
     // MODELO ABAIXO>>>
     aluno = {
         nome:'Lorem',
