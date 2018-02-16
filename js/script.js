@@ -86,7 +86,12 @@ var alunos = [
         'realmente, fora as atividades externas que realiza e isso parece n interferir. Parabéns!!! '+
         'Realmente hoje é um dia para ser comemorado!', 
     },
-
+    
+    rafael = {
+        nome:'Rafael Tanaka',
+        texto:'Parabéns Camila! Muitas felicidades, muita luz! Você é um exemplo para todos nós sobre como ser uma ótima profissional! Continue nos inspirando!',
+    },
+    
     shirley = {
         nome:'Shirley',
         texto:'Parabééééns, Psora!! Que você tenha um dia incrível, que continue arrasando nos códigos e logo mais brilhe lá nos States' +
