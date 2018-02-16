@@ -1,7 +1,14 @@
 var alunos = [
     // INSERIR EM ORDEM ALFABETICA
     // USE O MODELO Q ESTA NO FIM DA ARRAY
-
+    andrea = {
+        nome: 'Andrea',
+        texto: 'Parabéns pelo seu dia! Espero que essa pequena homenagem reflita uma parte de uma retribuição mais do que ' +
+        'merecida a uma pessoa extremamente dedicada e preocupada em ajudar os outros. Tenho certeza de que todo o engajamento ' +
+        'em nos fazer aprender de verdade só esconde uma personalidade incrível e uma pessoa muito boa! Parabéns por ser essa ' +
+        'pessoa/professora! Não desista de ser assim :) E parabéns (mais uma vez) pelo seu dia!',
+    },
+    
     dani = {
         nome: 'Dani',
         texto: 'CAMILAAAAAA PARABÉINSSS MEUUUU &#9829;&#9829;&#9829; hahahahha' +
