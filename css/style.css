@@ -1,0 +1,53 @@
+/* RESET */
+html, body{
+    width: 100vw;
+    height: 100vh;
+}
+*{  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    vertical-align: top;
+}
+
+/* CABECALHO */
+.cabecalho{
+    width: 100%;
+    background-color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+/* SESSAO AGRADECIMENTOS */
+.agradecimentos{
+    margin: 5px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* DIV AGRADECIMENTO */
+.agradecimento{
+    background-color: rgb(255, 246, 141);
+    width: 300px;
+    min-height: 200px;
+    margin: 10px 10px;
+}
+.agradecimento__titulo{
+    background-color: rgb(240, 226, 78);
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+}
+.agradecimento__texto{
+    padding: 10px;
+    text-align: justify;
+}
+
+/* FOOTER */
+.rodape{
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
