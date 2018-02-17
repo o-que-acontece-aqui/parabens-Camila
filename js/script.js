@@ -2,14 +2,6 @@ var alunos = [
     // INSERIR EM ORDEM ALFABETICA
     // USE O MODELO Q ESTA NO FIM DA ARRAY
 
-    marina = {
-        nome: 'Marina',
-        texto: 'Minha querida, Prof! Mulher firme, guerreira e humana. Desde a {Reprograma} já te admirava, e agora no CodeXp essa admiração só aumentou. '+
-        ' Não só em seu aniversário mas em todos os dias de tua caminhada eu só te desejo o melhor! ' +
-        ' Muito obrigada por todo o conhecimento e representatividade da mulher da tecnologia, foi uma honra te conhecer melhor e ter a oportunidade de ser sua aluna. Que privilégio!' +
-        ' Que papai do céu de abençõe sempre' +
-        ' Mil beijos ♥ ♥ ♥ ♥'
-    },
     
     andrea = {
         nome: 'Andrea',
@@ -99,6 +91,15 @@ var alunos = [
         'competência em ensinar e saber a hora de seguir ou parar que me deixou impressionada '+
         'realmente, fora as atividades externas que realiza e isso parece n interferir. Parabéns!!! '+
         'Realmente hoje é um dia para ser comemorado!', 
+    },
+
+    marina = {
+        nome: 'Marina',
+        texto: 'Minha querida, Prof! Mulher firme, guerreira e humana. Desde a {Reprograma} já te admirava, e agora no CodeXp essa admiração só aumentou. '+
+        ' Não só em seu aniversário mas em todos os dias de tua caminhada eu só te desejo o melhor! ' +
+        ' Muito obrigada por todo o conhecimento e representatividade da mulher da tecnologia, foi uma honra te conhecer melhor e ter a oportunidade de ser sua aluna. Que privilégio!' +
+        ' Que papai do céu de abençõe sempre' +
+        ' Mil beijos ♥ ♥ ♥ ♥'
     },
 
     michel = {
